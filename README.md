@@ -1,2 +1,2 @@
 Library Management System
-For MMU OOAD Subject
+For Multimedia University OOAD Subject
